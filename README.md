@@ -3,13 +3,13 @@
 <img align="right"alt="Cybersecurity"width="400"src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandans007&label=Profile%20views&color=0e75b6&style=flat" alt="manikandans007" /> </p>
 
-- 🌱 I’m currently learning ** Cisco Junior Security Analyst**
+- 🌱 I’m currently learning **Cisco Junior Security Analyst**
 
 - 📫 How to reach me **manikandans0812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manikandans007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikandans007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manikandans007" target="blank"><img align="center" src="https://www.linkedin.com/in/manikandan-s-0b6229196/" alt="manikandans007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
