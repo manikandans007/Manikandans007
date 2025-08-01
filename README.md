@@ -3,7 +3,7 @@
 <img align="right"alt="Cybersecurity"width="400"src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandans007&label=Profile%20views&color=0e75b6&style=flat" alt="manikandans007" /> </p>
 
-- 🌱 I’m currently learning **Cisco Junior Security Analyst**
+- 🌱 I’m currently learning **Junior Penetration Testing**
 
 - 📫 How to reach me **manikandans0812@gmail.com**
 
