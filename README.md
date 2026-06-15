@@ -8,7 +8,7 @@
 <img align="right" alt="Cybersecurity" width="350" src="https://cdn.dribbble.com/users/3943049/screenshots/14032596/media/9e39cf22d33b4d2b77e9f270f2f06f6e.gif">
 
 ### 🛡️ About Me
-- 🔭 I’m currently working on **Security Infrastructure & Monitoring**
+- 🔭 I’m currently working As **Security Engineer**
 - 🌱 I’m currently learning **Application Penetration Testing**
 - 💬 Ask me about **Wazuh, Suricata, or Web Security**
 - 📫 How to reach me: **manikandans0812@gmail.com**
